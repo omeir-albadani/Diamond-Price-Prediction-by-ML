@@ -1,3 +1,2 @@
 # Diamond-Price-Prediction-by-ML
-Diamond price prediction project using several features  machine learning and tracking the steps and life cycle of machine learning
-in this project we used the regrassion in supervised learning .
+THis is a Diamond-Price-Prediction project we did it using several features  machine learning and we applied  the steps of life cycle in  machine learning model training and   we used  A regression model which is type of  in supervised learning .
